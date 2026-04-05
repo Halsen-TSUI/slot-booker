@@ -1,12 +1,27 @@
 Copyright (c) 2026 Halsen. All rights reserved.
 
-This repository provides release binaries of SlotBookerAU for end-user use only.
+Terms Version: 1
+Last Updated (Unix): 1775372611
 
-Permission is granted to download and use the released binaries solely for personal or internal business use, subject to the following restrictions:
+This repository provides release binaries/assets of SlotBooker (including country-specific editions such as SlotBookerAU) for end-user use only.
+
+Permission is granted to download and use the released binaries/assets solely for personal or internal business use, subject to the following restrictions:
 
 1. You may not copy, redistribute, sublicense, rent, lease, sell, or otherwise transfer the software or any part of it.
 2. You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works from the software, except where such restriction is prohibited by applicable law.
 3. You may not remove or alter any copyright, trademark, or proprietary notices.
 4. Access keys, credentials, and service validation mechanisms may not be bypassed or tampered with.
+5. You may use the software only for lawful purposes and in compliance with all applicable laws, regulations, and third-party terms (including platform or service terms of use).
+6. Before each automation run, you must complete account/subscription verification through the provided validation mechanism. Use of automation features without successful verification is not permitted.
+7. For subscription validation, security, audit, and abuse prevention, the author or service operator may process and record account identifier, company name, IP address, device identifier, and verification timestamp.
+8. Verification and related operational data may be retained for as long as necessary for subscription validation, security, audit, abuse prevention, legal compliance, and legitimate business operations. Retention may be extended where required for investigations, disputes, or requests from competent authorities (including port operators and regulators).
+
+This license and any permission granted herein automatically terminate if you violate any term. Upon termination, you must immediately stop using the software and destroy all copies in your possession or control.
+
+No trademark rights are granted under this license. "SlotBooker" and related names, logos, and marks are reserved by the author.
+
+You agree to indemnify, defend, and hold harmless the author and copyright holder from and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising out of or related to your use of the software, your violation of this license, or your violation of any applicable law or third-party terms.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This license is governed by the laws of Taiwan, without regard to conflict-of-law principles. Any dispute arising out of or in connection with this license shall be subject to the exclusive jurisdiction of the courts in Taiwan, except to the extent that mandatory laws applicable in your place of residence or use provide otherwise.
